@@ -1,0 +1,8 @@
+﻿  contact.c
+  test.c
+D:\SynologyDrive\开发\code\study\tongxunlu\review-10-17\test.c(12,10): warning C4098: “menu”:“void”函数返回值
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  review-10-17.vcxproj -> D:\SynologyDrive\开发\code\study\tongxunlu\x64\Release\review-10-17.exe

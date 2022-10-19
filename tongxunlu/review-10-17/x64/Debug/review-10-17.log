@@ -1,0 +1,5 @@
+﻿  contact.c
+  test.c
+D:\SynologyDrive\开发\code\study\tongxunlu\review-10-17\test.c(12,10): warning C4098: “menu”:“void”函数返回值
+  正在生成代码...
+  review-10-17.vcxproj -> D:\SynologyDrive\开发\code\study\tongxunlu\x64\Debug\review-10-17.exe
